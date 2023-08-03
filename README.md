@@ -1,1 +1,3 @@
-# SPPU-TE-Assignments
+CNSL:
+
+Assignment 3: CRC/Hamming 
