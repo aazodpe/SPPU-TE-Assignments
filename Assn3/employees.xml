@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<employees>
+    <!-- Employee data goes here -->
+    <employee>
+        <id>001</id>
+        <name>abc</name>
+        <position>Manager</position>
+        <department>Finance</department>
+        <salary>70000</salary>
+    </employee>
+    <employee>
+        <id>002</id>
+        <name>xyz</name>
+        <position>Engineer</position>
+        <department>Engineering</department>
+        <salary>60000</salary>
+    </employee>
+
+</employees>
+
+
